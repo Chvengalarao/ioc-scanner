@@ -1,0 +1,4 @@
+User login from 192.168.1.5
+Connection from 185.234.72.10
+Downloaded file from malware-site.com
+Normal traffic from 8.8.8.8
